@@ -107,7 +107,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 16px;
-  width: 30%;
+  width: 50%;
   border: 2.5px solid var(--terceira-cor);
   text-align: center;
   border-radius: 35px;
@@ -150,6 +150,6 @@ body {
     width: auto;
   }
   .apresentacao_links_redes{
-    width: auto;
+    width: 50%;
   }
 }
