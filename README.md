@@ -12,6 +12,8 @@
 
 * CSS
 
+* JS
+
 ## Feito por:
 
 ### Yuri Ranchel
